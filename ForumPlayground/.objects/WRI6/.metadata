@@ -1,0 +1,12 @@
+﻿{
+  "Name": "Edge Combo Box Example",
+  "Type": "App",
+  "Id": "WRI6BOJMp0qvERtqt3riwA",
+  "Reference": "4m6Mm4CyWkOLmZ2YxGbitw/WRI6BOJMp0qvERtqt3riwA",
+  "Created": "2025-05-23T08:46:07.2796456Z",
+  "Updated": "2025-05-23T08:46:07.2796456Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.11.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.3.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

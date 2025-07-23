@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="RIwRHU0eaES8Rj8jqE7z9Q" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="" CVScreenId="335bc059-e7ae-4127-8a22-8deda2ee478b" CvElementArea="140, 265, 90, 27" CvType="InputBox" DesignTimeRectangle="140, 265, 90, 27" DesignTimeScaleFactor="1.25" ElementType="InputBox" Guid="8bd168b5-0a5d-445b-9bdb-6d66a2e553c9" IsResponsive="True" ScopeSelectorArgument="&lt;wnd app='chrome.exe' cls='Chrome_WidgetWin_1' title='Combo Box Example - Google Chrome' /&gt;" SearchSteps="CV" TargetType="ComputerVisionBased" Version="V4" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="335bc059-e7ae-4127-8a22-8deda2ee478b" CvTextArea="17, 269, 120, 17" CvTextArgument="Choose a fruit:" CvType="Text" DesignTimeRectangle="17, 269, 120, 17" ElementType="Text" Guid="5c2fe682-ad87-4bed-b686-d46a3ad06d44" SearchSteps="CV" TargetType="ComputerVisionBased" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="d15cbbb0206f73385996d9e54f97b3ab.png" xmlns="">0mFDgGJzCZ0WdnuLwfgnKHg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">SelectItem</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Edge FCSSL_IntelimatchFileTransfer_SDD (1).pd",
+  "Type": "Screen",
+  "Id": "uuoMq5Nk9kSDN1xWvks8_Q",
+  "Reference": "4m6Mm4CyWkOLmZ2YxGbitw/uuoMq5Nk9kSDN1xWvks8_Q",
+  "ParentRef": "4m6Mm4CyWkOLmZ2YxGbitw/Yp8kM5FEwE2wZoJz9dn9fA",
+  "Created": "2025-06-30T05:52:10.1993522Z",
+  "Updated": "2025-06-30T05:52:10.1993522Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.11.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

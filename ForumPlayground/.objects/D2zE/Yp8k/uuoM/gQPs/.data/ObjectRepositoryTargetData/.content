@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="k3BM7z0qcE6jL0JCqxQQeA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="" CVScreenId="9998da83-12ac-4e48-adce-5719ad8b0515" CvTextArea="1042, 435, 306, 25" CvTextArgument="Intellimatch File Transfer" CvType="Text" DesignTimeRectangle="1042, 435, 306, 25" DesignTimeScaleFactor="1.25" ElementType="Text" Guid="34df0de6-dae7-4c2b-8040-eb6652d4e6ee" ScopeSelectorArgument="&lt;wnd app='msedge.exe' cls='Chrome_WidgetWin_1' title='FCSSL_IntelimatchFileTransfer_SDD (1).pdf - Work - Microsoft​ Ed*' /&gt;" SearchSteps="CV" TargetType="ComputerVisionBased" Version="V4" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="9998da83-12ac-4e48-adce-5719ad8b0515" CvTextArea="879, 377, 469, 40" CvTextArgument="Solution Design Document" CvType="Text" DesignTimeRectangle="879, 377, 469, 40" ElementType="Text" Guid="106fb067-b6ee-424c-87a3-1ca3977e5de0" SearchSteps="CV" TargetType="ComputerVisionBased" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="2d0ea4809e16ba33f3dcedfa914e1d91.png" xmlns="">0avL54_ugqkW5e5KkAjpcRg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>
